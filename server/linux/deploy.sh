@@ -1,0 +1,1 @@
+cp TexasPokerServer.exe -f ../../bin/TexasPokerServer
